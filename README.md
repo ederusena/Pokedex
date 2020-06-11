@@ -2,9 +2,9 @@
  Pokedex with React
 
 ## PS
-![Poke Screen](../public/poke1.png "Title")
+![Poke Screen](https://github.com/ederusena/Pokedex/blob/master/pokedex-react/public/poke1.png "Title")
 
-![Poke Screen 2](./public/poke1.png "Title")
+![Poke Screen 2](https://github.com/ederusena/Pokedex/blob/master/pokedex-react/public/poke2.png "Title")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
